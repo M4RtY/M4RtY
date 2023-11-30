@@ -12,7 +12,7 @@
 </a>
 
 
-## Senior DevOps  engineer and Front-End developer  
+## Senior DevOps  engineer and Full-Stack developer  
 The coding is my passion, I have starting with coding in early years and in 99% I am self-learner. This passion was turned into my job so I can do what I like and also I can learn  new technologies.  
 
 ## 🛠 Skills 
